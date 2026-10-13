@@ -1,5 +1,5 @@
 <?php
-$myName = "Zenitha Bernoulli";
+$myName = "Zenitha";
 $myRole = "Coding Teacher & Developer";
 $projects = [
     ["title" => "Python CRUD", "desc" => "Flask, SQLAlchemy, PostgreSQL web app.", "img" => "python.png", "link" => "https://github.com/thisZenitha/CRUD-python-SQLAlchemy-postgreSQL"],
